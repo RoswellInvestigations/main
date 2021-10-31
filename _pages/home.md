@@ -1,3 +1,14 @@
+---
+title: "Home"
+defaults:
+  /
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+---
 
 ## I'm on the case. Private Investigator & Detective
 I‘m such a good detective, you don‘t have to find me – i find you! Only :star: *premium* :star: services for your needs!
