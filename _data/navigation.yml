@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: /_pages/home.md
   - title: "About Me"
-    url: /_pages/aboutme.md
+    url: /aboutme.md
   - title: "Small Print"
     url: /_pages/smallprint.md
   # - title: "Sample Collections"
