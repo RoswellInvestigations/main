@@ -1,6 +1,6 @@
 ---
 title: "Home"
-permalink: /home.md
+permalink: /
 ---
 
 ## I'm on the case. Private Investigator & Detective
