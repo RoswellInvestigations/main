@@ -19,7 +19,8 @@ From finding lost adventure groups and guiding them back the way they came, to d
 :heavy_check_mark: You
 :white_check_mark: High Insight Rolls
 
-### Payment plans*
+### Payment plans\*
+
 |  | Gold Package | Electrum Package | Platinum Package |
 |:------------ |:------------ |:------------- |:-------------  |
 | Price | **100G** (15% of your loot for dungoen scenarios) | **200G** (25% of your loot for dungoen scenarios) | **5000G** (50% of your loot for dungoen scenarios) |
