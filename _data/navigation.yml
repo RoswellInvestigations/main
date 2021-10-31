@@ -1,12 +1,8 @@
 # main links
 main:
   - title: "Home"
-    url: /_pages/home
+    url: /_pages/
   - title: "About Me"
     url: /aboutme
   - title: "Small Print"
-    url: /_pages/smallprint
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    url: /_pages/smallprint/
