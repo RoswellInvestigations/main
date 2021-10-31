@@ -21,7 +21,7 @@ From finding lost adventure groups and guiding them back the way they came, to d
 
 ### Payment plans*
 |  | Gold Package | Electrum Package | Platinum Package |
-| ------------ | ------------ | ------------- | -------------  |
+|:------------ |:------------ |:------------- |:-------------  |
 | Price | **100G** (15% of your loot for dungoen scenarios) | **200G** (25% of your loot for dungoen scenarios) | **5000G** (50% of your loot for dungoen scenarios) |
 | Investigation board access | 1 hour | 5 hours | You get your own copy |
 | Legally admissible evidence | x | 2 (or more) | 5 (or more) |
