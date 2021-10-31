@@ -1,7 +1,7 @@
 ---
 title: "Home"
 defaults:
-  /
+  /_pages/home.md
   - scope:
       path: ""
       type: pages
