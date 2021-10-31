@@ -1,13 +1,6 @@
 ---
 title: "Home"
-defaults:
-  /_pages/home.md
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+permalink: /home.md
 ---
 
 ## I'm on the case. Private Investigator & Detective
